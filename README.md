@@ -1,6 +1,6 @@
 # Calculadora
 
-Esta é uma aplicação básica de calculadora construída com HTML, CSS e JavaScript.
+Aplicação básica de calculadora construída com HTML, CSS e JavaScript.
 
 ## Features
 
